@@ -1,0 +1,24 @@
+Javasctipt
+--------------------------------------------------------------------
+-->Can be used to build mobile app, front end, back end 
+-->Other world of JS are nodeJS ReactJS AngularJS VueJS
+--------------------------------------------------------------------
+JS Versions
+--------------------------------------------------------------------
+HTML is a content
+CSS makes beautiful
+JS adds dynamic property (button click..)
+
+ECMAscript
+--> Provides standard guideline to be followed
+--> Various versions ES6,ES8,ES10
+-->Latest one is ECMASCRIPT 2020 which introduces Bigint and more
+-------------------------------------------------------------------
+JS Engines
+-------------------------------------------------------------------
+V8    https://v8.dev/
+SpiderMonkey   https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
+-------------------------------------------------------------------
+
+
+
