@@ -19,6 +19,9 @@ JS Engines
 V8    https://v8.dev/
 SpiderMonkey   https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey
 -------------------------------------------------------------------
-
+Ternary operator
+-------------------------------------------------------------------
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
+--------------------------------------------------------------------
 
 
